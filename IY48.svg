@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="80" height="80">
+  <g fill="none" stroke="#ffffff" stroke-width="18" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="4">
+    <path d="M 30,30 L 30,105" />
+    
+    <path d="M 75,30 L 75,70 L 120,30" />
+    <path d="M 75,70 L 75,105" />
+
+    <path d="M 30,140 L 30,175 L 75,175" />
+    <path d="M 75,140 L 75,210" />
+    
+    <path d="M 110,140 H 155 V 175 H 110 V 140 Z" />
+    <path d="M 110,175 H 155 V 210 H 110 V 175 Z" />
+  </g>
+</svg>
